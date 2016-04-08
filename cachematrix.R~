@@ -5,8 +5,6 @@
 # 3. setinverse - sets the inverse
 # 4. getinverse - gets the inverse
 ## Write a short comment describing this function
-## makeCacheMatrix - returns a list of functions 1,2,3,4
-
 
 makeCacheMatrix <- function(x = matrix()) {
 
